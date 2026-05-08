@@ -16,6 +16,7 @@ I am an aspiring Data Analyst interested in product analytics, user behavior ana
 I enjoy exploring data to find meaningful patterns, organizing analysis processes clearly, and communicating insights that connect data with real-world problems.  
 Currently, I am building practical skills in SQL, Python, Tableau, funnel analysis, cohort analysis, RFM analysis, and user event log design.
 
+
 <a href="https://github.com/lucy539090/portfolio/blob/main/README.md">
   <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
