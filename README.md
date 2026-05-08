@@ -16,7 +16,7 @@ Product Analytics · Data Visualization · Machine Learning · Data Analysis
 <br/>
 
 I am an aspiring Data Analyst interested in product analytics, user behavior analysis, and data visualization.  
-I enjoy exploring data to find meaningful patterns, organizing analysis processes clearly, and communicating insights in a way that connects data with real problems.  
+I enjoy exploring data to find meaningful patterns, organizing analysis processes clearly, and communicating insights that connect data with real-world problems.  
 Currently, I am building practical skills in SQL, Python, Tableau, funnel analysis, cohort analysis, RFM analysis, and user event log design.
 
 <a href="https://github.com/lucy539090/portfolio/blob/main/README.md">
@@ -109,18 +109,18 @@ Currently, I am building practical skills in SQL, Python, Tableau, funnel analys
 
 ## 📚 Currently Learning
 
-- SQL for data analysis
-- Python data analysis
+- SQL and Python for data analysis
 - Tableau dashboard design
 - Business metrics and KPI analysis
 - Funnel, cohort, and RFM analysis
-- User event log design
 - Data storytelling and portfolio documentation
 
 ---
 
 ## 📫 Contact
 
+## 📫 Contact
+
 - Blog: [lucy2652.tistory.com](https://lucy2652.tistory.com/)
-- GitHub: [github.com/lucy539090](https://github.com/lucy539090)
+- LinkedIn: [linkedin.com/in/jeehyeon-lee-6100a9223](https://www.linkedin.com/in/jeehyeon-lee-6100a9223/)
 - Email: lucy567888@gmail.com
