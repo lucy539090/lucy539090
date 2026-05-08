@@ -2,10 +2,10 @@
 
 # Jeehyeon Lee
 
-### Aspiring Data Analyst | Data Science Student
+### Aspiring Data Analyst | B.S. in Data Science
 
-I am a Data Science student with experience in data analysis, machine learning, data visualization, and research-based projects.  
-I enjoy transforming raw data into structured insights and communicating results through dashboards, reports, and presentations.
+I am currently pursuing a Bachelor of Science in Data Science at Seoul Women's University.  
+My interests include product analytics, data visualization, machine learning, and data-driven problem solving.
 
 <br/>
 
