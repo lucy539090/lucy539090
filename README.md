@@ -99,6 +99,7 @@ Product Analytics · Data Visualization · Machine Learning · Data-driven Probl
 | **Pothole Risk Factor Analysis** | Research / Capstone Project | 2024.09 – 2025.02 | Spatio-temporal data integration and tree-based ML modeling | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
 | **Steam Game Attribute Prediction** | Academic Project | 2025.03 – 2025.06 | EDA, feature selection, and classification workflow | - |
 | **ToxMod AI Risk Assessment** | Academic Project | 2025.09 – 2025.12 | Ethical AI, risk assessment, and AI governance | - |
+| **Seoul Subway Accident Factor Analysis** | Bootcamp Team Project, 2026.04 | Served as project leader, managed team coordination, structured the analysis flow, and delivered the final presentation. Focused on escalator/elevator-related accident analysis using multiple environmental factors. | To be updated |
 
 ---
 
