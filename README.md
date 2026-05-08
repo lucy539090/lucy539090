@@ -86,13 +86,13 @@ I enjoy transforming raw data into structured insights and communicating results
 
 ## 📌 Academic & Research Projects
 
-| Project | Type | Focus | Repository |
-|---|---|---|---|
-| **Voice Phishing Pattern Analysis** | Academic Project | Case collection, preprocessing, and prevention app concept design | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
-| **Watcha User Behavior Analysis** | Academic Project | User survey, viewing pattern analysis, and marketing strategy | - |
-| **Pothole Risk Factor Analysis** | Research / Capstone Project | Spatio-temporal data integration and tree-based ML modeling | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
-| **Steam Game Attribute Prediction** | Academic Project | EDA, feature selection, and classification workflow | - |
-| **ToxMod AI Risk Assessment** | Academic Project | Ethical AI, risk assessment, and AI governance | - |
+| Project | Type | Period | Focus | Repository |
+|---|---|---|---|---|
+| **Voice Phishing Pattern Analysis** | Academic Project | 2022.09 – 2022.12 | Case collection, preprocessing, and prevention app concept design | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
+| **Watcha User Behavior Analysis** | Academic Project | 2023.03 – 2023.06 | User survey, viewing pattern analysis, and marketing strategy | - |
+| **Pothole Risk Factor Analysis** | Research / Capstone Project | 2024.09 – 2025.02 | Spatio-temporal data integration and tree-based ML modeling | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
+| **Steam Game Attribute Prediction** | Academic Project | 2025.03 – 2025.06 | EDA, feature selection, and classification workflow | - |
+| **ToxMod AI Risk Assessment** | Academic Project | 2025.09 – 2025.12 | Ethical AI, risk assessment, and AI governance | - |
 
 ---
 
