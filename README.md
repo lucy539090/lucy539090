@@ -86,13 +86,11 @@ I enjoy transforming raw data into structured insights and communicating results
 
 ## 📌 Academic & Research Projects
 
-## 📌 Academic & Research Projects
-
 | Project | Type | Focus | Repository |
 |---|---|---|---|
-| **Voice Phishing Pattern Analysis** | Academic Project | Case collection, preprocessing, and prevention app concept design | [Repository](링크) |
+| **Voice Phishing Pattern Analysis** | Academic Project | Case collection, preprocessing, and prevention app concept design | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
 | **Watcha User Behavior Analysis** | Academic Project | User survey, viewing pattern analysis, and marketing strategy | - |
-| **Pothole Risk Factor Analysis** | Research / Capstone Project | Spatio-temporal data integration and tree-based ML modeling | [Repository](링크) |
+| **Pothole Risk Factor Analysis** | Research / Capstone Project | Spatio-temporal data integration and tree-based ML modeling | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
 | **Steam Game Attribute Prediction** | Academic Project | EDA, feature selection, and classification workflow | - |
 | **ToxMod AI Risk Assessment** | Academic Project | Ethical AI, risk assessment, and AI governance | - |
 
