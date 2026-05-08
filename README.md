@@ -26,12 +26,6 @@ I enjoy transforming raw data into structured insights and communicating results
     </td>
   </tr>
   <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
     <td><b>Data Analysis</b></td>
     <td>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
