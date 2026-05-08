@@ -1,25 +1,30 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:4682B4,100:1E3A8A&height=260&section=header&text=Hi,%20I'm%20Jeehyeon%20Lee%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Data%20Science%20Student&descSize=17&descAlignY=56&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9ADCFB,50:74B9FF,100:4D96FF&height=230&section=header&text=Hi,%20I'm%20Jeehyeon%20Lee%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Data%20Science%20Student&descSize=17&descAlignY=57&descAlign=50)
 
-<div align="center">
-  
 **Seoul Women's University**  
 **B.S. in Data Science**
 
 <br/>
+
 Product Analytics · Data Visualization · Machine Learning · Data Analysis
 
 <br/>
 <br/>
+
 I am an aspiring Data Analyst interested in product analytics, user behavior analysis, and data visualization.  
 I enjoy exploring data to find meaningful patterns, organizing analysis processes clearly, and communicating insights that connect data with real-world problems.  
 Currently, I am building practical skills in SQL, Python, Tableau, funnel analysis, cohort analysis, RFM analysis, and user event log design.
 
+<br/>
+<br/>
 
-<a href="https://github.com/lucy539090/portfolio/blob/main/README.md">
+<a href="https://github.com/lucy539090/portfolio">
   <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/>
+<br/>
 
 </div>
 
