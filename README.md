@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Jeehyeon%20Lee%20👋&fontSize=42&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20|%20Data%20Science%20Student&descSize=18&descAlignY=60)
 
-</div>
+<div align="center">
 
 **Seoul Women's University**  
 **B.S. in Data Science**
