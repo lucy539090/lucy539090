@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9ADCFB,50:74B9FF,100:4D96FF&height=230&section=header&text=Hi,%20I'm%20Jeehyeon%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Data%20Science%20Student&descSize=17&descAlignY=57&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0B1120&height=230&section=header&text=Hi,%20I'm%20Jeehyeon%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20|%20Data%20Science%20Student&descSize=17&descAlignY=57&descAlign=50)
 
 **Seoul Women's University**  
 **B.S. in Data Science**
