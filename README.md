@@ -19,14 +19,12 @@ I am an aspiring Data Analyst interested in product analytics, user behavior ana
 I enjoy exploring data to find meaningful patterns, organizing analysis processes clearly, and communicating insights in a way that connects data with real problems.  
 Currently, I am building practical skills in SQL, Python, Tableau, funnel analysis, cohort analysis, RFM analysis, and user event log design.
 
-<br/>
-
-<a href="https://lucy2652.tistory.com/">
-  <img src="https://img.shields.io/badge/VISIT%20MY%20BLOG-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+<a href="#-portfolio">
+  <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/lucy539090">
-  <img src="https://img.shields.io/badge/VISIT%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://lucy2652.tistory.com/">
+  <img src="https://img.shields.io/badge/VISIT%20MY%20BLOG-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
 
 </div>
