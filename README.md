@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Jeehyeon%20Lee%20👋&fontSize=42&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20|%20Data%20Science%20Student&descSize=18&descAlignY=60)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=3000&pause=1000&color=2F2F2F&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jeehyeon+Lee+%F0%9F%91%8B;Aspiring+Data+Analyst;Data+Science+Student)
 
-<div align="center">
+<br/>
 
 **Seoul Women's University**  
 **B.S. in Data Science**
@@ -11,7 +11,7 @@
 
 Product Analytics · Data Visualization · Machine Learning · Data Analysis
 
-<br/>
+</div>
 
 I am an aspiring Data Analyst interested in product analytics, user behavior analysis, and data visualization.  
 I enjoy exploring data to find meaningful patterns, organizing analysis processes clearly, and communicating insights that connect data with real-world problems.  
