@@ -2,10 +2,16 @@
 
 # Jeehyeon Lee
 
-### Aspiring Data Analyst | B.S. in Data Science
+### Aspiring Data Analyst | Data Science Student
 
-I am currently pursuing a Bachelor of Science in Data Science at Seoul Women's University.  
-My interests include product analytics, data visualization, machine learning, and data-driven problem solving.
+<br/>
+
+**Seoul Women's University**  
+**B.S. in Data Science**
+
+<br/>
+
+Product Analytics · Data Visualization · Machine Learning · Data-driven Problem Solving
 
 <br/>
 
