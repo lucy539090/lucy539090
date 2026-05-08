@@ -100,10 +100,10 @@ I enjoy transforming raw data into structured insights and communicating results
 
 - **Research Paper**  
   *Analysis of Key Factors of Potholes Using Tree-Based Machine Learning Techniques*  
-  Developed machine learning models including Random Forest and XGBoost and submitted the paper as a Capstone II final deliverable.
+  Developed tree-based machine learning models and submitted the paper as a Capstone II final deliverable.
 
 - **Conference Participation**  
-  Participated in a poster session presenting pothole prediction research at a Data Science academic conference.
+  Attended a Data Science academic conference to explore recent research trends in data analysis and machine learning.
 
 - **Academic Presentations**  
   Presented analysis results in Capstone I, Capstone II, and Watcha analytics projects.
@@ -126,7 +126,7 @@ I enjoy transforming raw data into structured insights and communicating results
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucy539090&show_icons=true&theme=default" />
 
 </div>
 
