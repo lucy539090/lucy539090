@@ -122,16 +122,6 @@ I enjoy transforming raw data into structured insights and communicating results
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy539090&show_icons=true&theme=default)
-
-</div>
-
----
-
 ## 📫 Contact
 
 - Blog: https://lucy2652.tistory.com/
