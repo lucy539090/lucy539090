@@ -119,8 +119,6 @@ Currently, I am building practical skills in SQL, Python, Tableau, funnel analys
 
 ## 📫 Contact
 
-## 📫 Contact
-
 - Blog: [lucy2652.tistory.com](https://lucy2652.tistory.com/)
 - LinkedIn: [linkedin.com/in/jeehyeon-lee-6100a9223](https://www.linkedin.com/in/jeehyeon-lee-6100a9223/)
 - Email: lucy567888@gmail.com
