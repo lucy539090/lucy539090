@@ -94,12 +94,12 @@ Product Analytics · Data Visualization · Machine Learning · Data-driven Probl
 
 | Project | Type | Period | Focus | Repository |
 |---|---|---|---|---|
-| **Voice Phishing Pattern Analysis** | Academic Project | 2022.09 – 2022.12 | Case collection, preprocessing, and prevention app concept design | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
-| **Watcha User Behavior Analysis** | Academic Project | 2023.03 – 2023.06 | User survey, viewing pattern analysis, and marketing strategy | - |
-| **Pothole Risk Factor Analysis** | Research / Capstone Project | 2024.09 – 2025.02 | Spatio-temporal data integration and tree-based ML modeling | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
-| **Steam Game Attribute Prediction** | Academic Project | 2025.03 – 2025.06 | EDA, feature selection, and classification workflow | - |
-| **ToxMod AI Risk Assessment** | Academic Project | 2025.09 – 2025.12 | Ethical AI, risk assessment, and AI governance | - |
-| **Seoul Subway Accident Factor Analysis** | Bootcamp Team Project, 2026.04 | Served as project leader, managed team coordination, structured the analysis flow, and delivered the final presentation. Focused on escalator/elevator-related accident analysis using multiple environmental factors. | To be updated |
+| **Voice Phishing Pattern Analysis** | Academic Project | 2022.09 – 2022.12 | Collected voice-phishing case videos and transcripts from public sources, cleaned and organized the data, and designed a conceptual prevention app based on behavioral patterns. | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
+| **Watcha User Behavior Analysis** | Academic Project | 2023.03 – 2023.06 | Designed and conducted a user survey to analyze OTT viewing patterns, built Tableau dashboards, and suggested marketing strategies based on user segmentation insights. | - |
+| **Pothole Risk Factor Analysis** | Research / Capstone Project | 2024.09 – 2025.02 | Integrated spatio-temporal datasets including weather, traffic, road networks, slopes, and bus routes, and built tree-based ML models to identify key factors related to pothole occurrence. | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
+| **Steam Game Attribute Prediction** | Academic Project | 2025.03 – 2025.06 | Built an end-to-end machine learning workflow using Orange3, including EDA, feature selection, model comparison, and classification to predict game popularity-related attributes. | - |
+| **ToxMod AI Risk Assessment** | Academic Project | 2025.09 – 2025.12 | Assessed ethical risks of AI voice moderation, including bias, privacy, and false positives, and analyzed real-world deployment cases from the perspective of AI governance. | - |
+| **Seoul Subway Accident Factor Analysis** | Bootcamp Team Project | 2026.04 | Served as project leader, managed team coordination, structured the analysis flow, and delivered the final presentation. Focused on escalator/elevator-related accident analysis using multiple environmental factors. | To be updated |
 
 ---
 
