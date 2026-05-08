@@ -126,7 +126,7 @@ I enjoy transforming raw data into structured insights and communicating results
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucy539090&show_icons=true&theme=default" />
+![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy539090&show_icons=true&theme=default)
 
 </div>
 
