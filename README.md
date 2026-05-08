@@ -92,6 +92,8 @@ Product Analytics · Data Visualization · Machine Learning · Data Analysis
 
 ## 📌 Academic & Research Projects
 
+| Project | Type | Period | Focus | Repository |
+|---|---|---|---|---|
 | **Voice Phishing Pattern Analysis** | Academic Project | 2022.09 – 2022.12 | Collected and cleaned voice-phishing cases and transcripts, then designed a conceptual prevention app based on behavioral patterns. | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
 | **Watcha User Behavior Analysis** | Academic Project | 2023.03 – 2023.06 | Conducted a user survey, analyzed OTT viewing patterns, built Tableau dashboards, and suggested segmentation-based marketing strategies. | - |
 | **Pothole Risk Factor Analysis** | Research / Capstone Project | 2024.09 – 2025.02 | Integrated spatio-temporal datasets and built tree-based ML models to identify key factors related to pothole occurrence. | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
