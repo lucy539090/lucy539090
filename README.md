@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jeehyeon Lee
+# Hi, I'm Jeehyeon Lee 👋
 
 ### Aspiring Data Analyst | Data Science Student
 
@@ -15,7 +15,30 @@ Product Analytics · Data Visualization · Machine Learning · Data Analysis
 
 <br/>
 
+I am an aspiring Data Analyst interested in product analytics, user behavior analysis, and data visualization.  
+I enjoy exploring data to find meaningful patterns, organizing analysis processes clearly, and communicating insights in a way that connects data with real problems.  
+Currently, I am building practical skills in SQL, Python, Tableau, funnel analysis, cohort analysis, RFM analysis, and user event log design.
+
+<br/>
+
+<a href="https://lucy2652.tistory.com/">
+  <img src="https://img.shields.io/badge/VISIT%20MY%20BLOG-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/lucy539090">
+  <img src="https://img.shields.io/badge/VISIT%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
+
+---
+
+## 🌱 About Me
+
+- 📊 Interested in product analytics, user behavior analysis, and data visualization
+- 🧩 Learning how to connect business questions with data-driven insights
+- 📝 Enjoy organizing analysis processes and communicating findings clearly
+- 🚀 Currently studying SQL, Python, Tableau, funnel analysis, cohort analysis, RFM analysis, and user event log design
 
 ---
 
@@ -90,46 +113,20 @@ Product Analytics · Data Visualization · Machine Learning · Data Analysis
 
 ---
 
-## 📌 Academic & Research Projects
+## 📚 Currently Learning
 
-| Project | Type | Period | Focus | Repository |
-|---|---|---|---|---|
-| **Voice Phishing Pattern Analysis** | Academic Project | 2022.09 – 2022.12 | Collected and cleaned voice-phishing cases and transcripts, then designed a conceptual prevention app based on behavioral patterns. | [Repository](https://github.com/lucy539090/voicefishing_analysis) |
-| **Watcha User Behavior Analysis** | Academic Project | 2023.03 – 2023.06 | Conducted a user survey, analyzed OTT viewing patterns, built Tableau dashboards, and suggested segmentation-based marketing strategies. | - |
-| **Pothole Risk Factor Analysis** | Research / Capstone Project | 2024.09 – 2025.02 | Integrated spatio-temporal datasets and built tree-based ML models to identify key factors related to pothole occurrence. | [Team Repository](https://github.com/Moon-ye-rin/Capstone_Design_2) |
-| **Steam Game Attribute Prediction** | Academic Project | 2025.03 – 2025.06 | Built an Orange3-based ML workflow including EDA, feature selection, model comparison, and classification. | - |
-| **ToxMod AI Risk Assessment** | Academic Project | 2025.09 – 2025.12 | Assessed ethical risks of AI voice moderation, including bias, privacy, false positives, and governance issues. | - |
-| **Seoul Subway Accident Factor Analysis** | Bootcamp Team Project | 2026.04 | Served as project leader, managed team coordination, structured the analysis flow, and delivered the final presentation. Analyzed escalator/elevator-related accident factors. | To be updated |
-
----
-
-## 🧪 Research & Academic Contributions
-
-- **Research Paper**  
-  *Analysis of Key Factors of Potholes Using Tree-Based Machine Learning Techniques*  
-  Developed tree-based machine learning models and submitted the paper as a Capstone II final deliverable.
-
-- **Conference Participation**  
-  Attended a Data Science academic conference to explore recent research trends in data analysis and machine learning.
-
-- **Academic Presentations**  
-  Presented analysis results in Capstone I, Capstone II, and Bootcamp Team projects.
-
----
-
-## 🌱 Currently Learning
-
-- SQL for Data Analysis
-- Python Data Analysis
-- Business Metrics and KPI Analysis
-- Tableau Dashboard Design
-- Funnel, Cohort, and RFM Analysis
-- Data Storytelling
-- Portfolio Documentation
+- SQL for data analysis
+- Python data analysis
+- Tableau dashboard design
+- Business metrics and KPI analysis
+- Funnel, cohort, and RFM analysis
+- User event log design
+- Data storytelling and portfolio documentation
 
 ---
 
 ## 📫 Contact
 
-- Blog: https://lucy2652.tistory.com/
+- Blog: [lucy2652.tistory.com](https://lucy2652.tistory.com/)
+- GitHub: [github.com/lucy539090](https://github.com/lucy539090)
 - Email: lucy567888@gmail.com
